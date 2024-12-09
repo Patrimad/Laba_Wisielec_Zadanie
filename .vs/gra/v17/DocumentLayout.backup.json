@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "B:\\Unity Projects\\3D game\\Laba_Wisielec_Zadanie\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E981EEBD-0A24-4547-9595-9E90AEE79165}|gra\\gra.vcxproj|B:\\Unity Projects\\3D game\\Laba_Wisielec_Zadanie\\gra\\gra.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E981EEBD-0A24-4547-9595-9E90AEE79165}|gra\\gra.vcxproj|solutionrelative:gra\\gra.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E981EEBD-0A24-4547-9595-9E90AEE79165}|gra\\gra.vcxproj|B:\\Unity Projects\\3D game\\Laba_Wisielec_Zadanie\\gra\\high_scores.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E981EEBD-0A24-4547-9595-9E90AEE79165}|gra\\gra.vcxproj|solutionrelative:gra\\high_scores.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E981EEBD-0A24-4547-9595-9E90AEE79165}|gra\\gra.vcxproj|B:\\Unity Projects\\3D game\\Laba_Wisielec_Zadanie\\gra\\slowa.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E981EEBD-0A24-4547-9595-9E90AEE79165}|gra\\gra.vcxproj|solutionrelative:gra\\slowa.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "slowa.txt",
+              "DocumentMoniker": "B:\\Unity Projects\\3D game\\Laba_Wisielec_Zadanie\\gra\\slowa.txt",
+              "RelativeDocumentMoniker": "gra\\slowa.txt",
+              "ToolTip": "B:\\Unity Projects\\3D game\\Laba_Wisielec_Zadanie\\gra\\slowa.txt",
+              "RelativeToolTip": "gra\\slowa.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-08T20:01:08.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "high_scores.txt",
+              "DocumentMoniker": "B:\\Unity Projects\\3D game\\Laba_Wisielec_Zadanie\\gra\\high_scores.txt",
+              "RelativeDocumentMoniker": "gra\\high_scores.txt",
+              "ToolTip": "B:\\Unity Projects\\3D game\\Laba_Wisielec_Zadanie\\gra\\high_scores.txt",
+              "RelativeToolTip": "gra\\high_scores.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-08T20:01:08.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "gra.cpp",
+              "DocumentMoniker": "B:\\Unity Projects\\3D game\\Laba_Wisielec_Zadanie\\gra\\gra.cpp",
+              "RelativeDocumentMoniker": "gra\\gra.cpp",
+              "ToolTip": "B:\\Unity Projects\\3D game\\Laba_Wisielec_Zadanie\\gra\\gra.cpp",
+              "RelativeToolTip": "gra\\gra.cpp",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAIUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-08T20:00:31.245Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

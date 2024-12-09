@@ -1,0 +1,3 @@
+﻿  gra.cpp
+B:\Unity Projects\3D game\Laba_Wisielec_Zadanie\gra\gra.cpp(68,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  gra.vcxproj -> B:\Unity Projects\3D game\Laba_Wisielec_Zadanie\x64\Debug\gra.exe

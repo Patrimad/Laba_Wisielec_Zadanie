@@ -1,1 +1,1 @@
-# Laba_Wisielec_Zadanie
+# Laba_Wisielec
